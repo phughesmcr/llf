@@ -1,0 +1,4 @@
+# intermediate script outputs
+raw_audio_*.mp3
+silences.txt
+split_points.txt
